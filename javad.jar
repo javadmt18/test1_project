@@ -11,3 +11,6 @@ public String getName(){
 public int calculateArea(){
 	return (a * b)/2;
 }
+public int getAge(){
+	return age;
+}

@@ -8,3 +8,6 @@ public void setName(String name){
 public String getName(){
 	return name;
 }
+public int calculateArea(){
+	return (a * b)/2;
+}

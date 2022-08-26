@@ -20,3 +20,6 @@ public void setAge(int age){
 public String getValue(){
 	this.value = value;
 }
+public RecyclerView getRecycler(){
+	return recyclerView;
+}

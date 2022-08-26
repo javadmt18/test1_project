@@ -23,3 +23,9 @@ public String getValue(){
 public RecyclerView getRecycler(){
 	return recyclerView;
 }
+public String setPhoneNumber(String phoneNumber){
+	this phoneNumber = phoneNumber;
+}
+public String getPhoneNumber(){
+	return phoneNumber;
+}	

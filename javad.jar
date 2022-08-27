@@ -29,3 +29,9 @@ public String setPhoneNumber(String phoneNumber){
 public String getPhoneNumber(){
 	return phoneNumber;
 }	
+public void setAddress(String address){
+	this.address = address;
+}
+public String getAddress(){
+	return address;
+}

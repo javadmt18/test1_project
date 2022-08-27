@@ -38,3 +38,9 @@ public String getAddress(){
 public void setHelloMessage(){
 	System.out.print("hello world");
 }
+public String getJobName(){
+	return job;
+}
+public void setJobName(){
+	this.job = job;
+}

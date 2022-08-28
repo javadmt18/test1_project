@@ -44,3 +44,6 @@ public String getJobName(){
 public void setJobName(){
 	this.job = job;
 }
+public void setAsync(){
+	this.async = async;
+}
